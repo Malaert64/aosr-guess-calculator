@@ -10,17 +10,13 @@ body {
   text-align: center;
 }
 
-/* Change color of h2 tags that are inside the questions class */
 h2, b {
   color: #69a2b3;
 }
 
-label, select, p {
-  font-size: 14pt;
-}
-
-button, select {
+button, select, label, p {
     font-family: 'Share Tech Mono', monospace;
+    font-size: 14pt;
 }
 
 button {
