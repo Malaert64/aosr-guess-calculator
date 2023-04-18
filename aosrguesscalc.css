@@ -2,16 +2,16 @@
 @import url('https://fonts.googleapis.com/css?family=Share+Tech+Mono');
 
 body {
-  /* Define the custom font for the whole document */
-  font-family: 'Share Tech Mono', monospace;
-  background-color: #0a0a0a;
-  background-image: url("Background Books.png");
-  color: #f8f8f8;
-  text-align: center;
+    /* Define the custom font for the whole document */
+    font-family: 'Share Tech Mono', monospace;
+    background-color: #0a0a0a;
+    background-image: url("Background Books.png");
+    color: #f8f8f8;
+    text-align: center;
 }
 
 h2, b {
-  color: #69a2b3;
+    color: #69a2b3;
 }
 
 button, select, label, p {
@@ -24,11 +24,11 @@ button {
 }
 
 #header {
-  margin-top: 3em;
-  margin-bottom: 2em;
+    margin-top: 3em;
+    margin-bottom: 2em;
 }
 
 #content {
-margin-left: 1em;
-margin-right: 1em;
+    margin-left: 1em;
+    margin-right: 1em;
 }
