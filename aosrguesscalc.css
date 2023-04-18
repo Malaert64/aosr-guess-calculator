@@ -1,0 +1,38 @@
+/* Google Font */
+@import url('https://fonts.googleapis.com/css?family=Share+Tech+Mono');
+
+body {
+  /* Define the custom font for the whole document */
+  font-family: 'Share Tech Mono', monospace;
+  background-color: #0a0a0a;
+  background-image: url("Background Books.png");
+  color: #f8f8f8;
+  text-align: center;
+}
+
+/* Change color of h2 tags that are inside the questions class */
+h2, b {
+  color: #69a2b3;
+}
+
+label, select, p {
+  font-size: 14pt;
+}
+
+button, select {
+    font-family: 'Share Tech Mono', monospace;
+}
+
+button {
+    margin-top: 1em;
+}
+
+#header {
+  margin-top: 3em;
+  margin-bottom: 2em;
+}
+
+#content {
+margin-left: 1em;
+margin-right: 1em;
+}
