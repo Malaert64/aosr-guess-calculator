@@ -4,3 +4,5 @@ A small calculator application I made to determine the probability of guessing c
 Written in HTML, CSS, and JS for the sake of simplicity.
 
 In the AoSR, there are three random requirements to progress beyond Graham, given in the three Ancient Books placed within the castle. At least one book will be a required soul, one will be a boss to kill, and the third has a 50% chance of being either.
+
+Pretty sure all the maths behind this are correct - it's all a bunch of applications of the rules of product and sum, really.
